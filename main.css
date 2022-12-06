@@ -1,0 +1,38 @@
+button {
+  background-color: darkslateblue;
+  color: antiquewhite;
+  vertical-align: top;
+  padding: 10px;
+  border-radius: 8px;
+  margin-bottom: 10px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: blueviolet;
+}
+
+.tabell,
+.tabelltr,
+.tabellth,
+.tabelltd,
+.tabellhead,
+caption {
+  border: 1px solid black;
+  font-family: 'Courier New', monospace;
+  border-collapse: initial;
+  padding: 0.5rem;
+  margin: auto;
+}
+
+
+.text {
+  font-family: Arial, Helvetica, sans-serif;
+
+}
+
+img {
+  border: 2px solid black;
+  display: block;
+  margin: auto;
+}
